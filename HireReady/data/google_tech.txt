@@ -1,0 +1,13 @@
+COMPANY: Google
+ROUND: Technical (DSA/System Design)
+CORE TOPICS: Graph Theory, Dynamic Programming, Big O Analysis.
+
+QUESTION_BANK:
+1. "Given a list of internal employee IDs and their managers, find the common manager for two specific employees in the shortest time." (LCA in Trees).
+2. "Design a rate-limiter for a high-traffic API. How would you handle distributed consistency?"
+3. "Explain how you would optimize a search algorithm that is currently O(N^2)."
+
+EVALUATION_RUBRIC:
+- Critical Requirement: Must mention Time and Space Complexity without being prompted.
+- Edge Cases: Did the candidate ask about null inputs or massive datasets?
+- Communication: Can they explain the logic *while* coding, or do they go silent?

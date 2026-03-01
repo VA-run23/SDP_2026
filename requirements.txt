@@ -1,0 +1,28 @@
+# SDP 2026 - Generative Agentic AI Projects
+# Main dependencies for all projects
+
+# Core AI/ML Libraries
+streamlit>=1.32.0
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+
+# Vector Database
+chromadb
+
+# Embeddings & NLP
+sentence-transformers
+
+# Local LLM Support
+ollama
+
+# Document Processing
+pypdf
+
+# Utilities
+python-dotenv
+tiktoken
+requests
+
+# Note: Install project-specific requirements from individual project folders if needed

@@ -1,0 +1,13 @@
+COMPANY: Stripe
+ROUND: Technical (Integration/Practical)
+CORE TOPICS: API Design, Webhooks, Idempotency, Clean Code.
+
+QUESTION_BANK:
+1. "You are building a payment retry logic. How do you ensure a user isn't charged twice if the network fails midway?" (Idempotency keys).
+2. "Review this API snippet. Why might this lead to a race condition during a high-volume checkout?"
+3. "Design a system to sync transaction data between Stripe and an internal SQL database."
+
+EVALUATION_RUBRIC:
+- Practicality: Does the candidate value "correctness" over "cleverness"?
+- Error Handling: Do they account for 5xx errors and partial failures?
+- Documentation: Does the candidate treat the API as a product for other developers?

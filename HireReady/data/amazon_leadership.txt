@@ -1,0 +1,13 @@
+COMPANY: Amazon
+ROUND: Bar Raiser / Leadership
+CORE PRINCIPLES: Customer Obsession, Ownership, Bias for Action, Dive Deep.
+
+QUESTION_BANK:
+1. "Tell me about a time you took a risk and failed. What did you do next?" (Bias for Action/Ownership).
+2. "Give an example of a time you had to make a decision without having all the data." (Dealing with Ambiguity).
+3. "Describe a time you went above and beyond for a customer." (Customer Obsession).
+
+EVALUATION_RUBRIC:
+- STAR Method: Candidates MUST use Situation, Task, Action, Result.
+- Ownership: Did they say "we" too much? Amazon wants to know what *you* specifically did.
+- Data-Driven: Responses must include metrics (e.g., "improved latency by 20%" or "saved $5k").

@@ -1,0 +1,13 @@
+COMPANY: Google
+ROUND: HR / Behavioral
+CORE VALUES: Googliness, Intellectual Humility, Comfort with Ambiguity.
+
+QUESTION_BANK:
+1. "Tell me about a time you had to work with a difficult teammate. How did you handle the friction?"
+2. "Describe a situation where you faced a project requirement that was constantly changing. How did you adapt?"
+3. "How do you ensure you are staying inclusive when working in a diverse team?"
+
+EVALUATION_RUBRIC:
+- High Score: Candidate shows "proactive communication" and "data-driven conflict resolution."
+- Low Score: Blaming others or showing a rigid mindset (inability to pivot).
+- "Googliness" Check: Does the candidate admit when they were wrong? (Intellectual Humility).

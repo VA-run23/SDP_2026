@@ -1,0 +1,35 @@
+Secure Coding Practices Checklist
+Input validation
+Conduct all input validation on a trusted system (server side not client side)
+
+Identify all data sources and classify them into trusted and untrusted
+
+Validate all data from untrusted sources (databases, file streams, etc)
+
+Use a centralized input validation routine for the whole application
+
+Specify character sets, such as UTF-8, for all input sources (canonicalization)
+
+Encode input to a common character set before validating
+
+All validation failures should result in input rejection
+
+If the system supports UTF-8 extended character sets and validate after UTF-8 decoding is completed
+
+Validate all client provided data before processing
+
+Verify that protocol header values in both requests and responses contain only ASCII characters
+
+Validate data from redirects
+
+Validate for expected data types using an "allow" list rather than a "deny" list
+
+Validate data range
+
+Validate data length
+
+If any potentially hazardous input must be allowed then implement additional controls
+
+If the standard validation routine cannot address some inputs then use extra discrete checks
+
+Utilize canonicalization to address obfuscation attacks
